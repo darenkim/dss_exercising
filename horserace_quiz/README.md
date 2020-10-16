@@ -1,1 +1,3 @@
-# Jeju_tour Quiz
+# HorseRace Qui
+## EDA
+### lambda skill 
