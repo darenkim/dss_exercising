@@ -1,3 +1,3 @@
-# HorseRace Qui
+# HorseRace Quiz
 ## EDA
 ### lambda skill 
